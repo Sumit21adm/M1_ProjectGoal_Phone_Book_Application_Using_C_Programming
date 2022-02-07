@@ -1,22 +1,30 @@
-Description
-Development of Phone Book Application Using C Programming
+# **Description**
+	Development of Phone Book Application Using C Programming
 
-Requirements:
--> VS CODE
--> LINUX/ WINDOWS OS SYSTEM
+# **Requirements:**
+	- VS CODE
+	- LINUX/ WINDOWS OS SYSTEM
+	- Github Knowledge
 
-High Level Requirements
+# High Level Requirements
+	- 
+	- 
+	- 
+	
+# Low Level Requirements
+	- 
+	- 
+	- 
+	
+# Features of my project
+	- Create a new contact.
+	- Read Created Contact.
+	- Search Contacts by Name.
+	- Delete Contacts By their Name.
 
-Low Level Requirements
+# How each feature is implemented
 
-Features of my project
--> Create a new contact.
--> Read Created Contacts.
--> Delete Contacts By their Name.
+# Linkage of High level to Low level
 
-How each feature is implemented
-
-Linkage of High level to Low level
-
-SWOT
+# SWOT
 4W's & 1H
