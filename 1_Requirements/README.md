@@ -1,6 +1,7 @@
 # **Description**
-	Development of Phone Book Application Using C Programming
-
+	The PhoneBook Application Using C, is a mini project. PhoneBook from the Command Prompt, picks up new data and saved them in a file, A user can
+	add new contacts, Read all saved contacts. The phone book contains such data as: Full Name, Mob No.
+	
 # **Requirements:**
 	- VS CODE
 	- LINUX/ WINDOWS OS SYSTEM
@@ -18,11 +19,10 @@
 	
 # Features of my project
 	- Create a new contact.
-	- Read Created Contact.
-	- Search Contacts by Name.
-	- Delete Contacts By their Name.
+	- List Saved Contacts.
 
 # How each feature is implemented
+	- Each feature is implemented with multifile technique.
 
 # Linkage of High level to Low level
 
