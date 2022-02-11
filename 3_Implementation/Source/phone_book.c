@@ -50,14 +50,7 @@ int contact_options()
         {
             fprintf(filepointer, "Name: %s", input1.fullname);
             fprintf(filepointer, "Mob No: %d", input1.mobno);
-            if (filepointer != NULL)
-            {
-                printf("Something gone wrong, can't save this contact, Try Again!");
-            }
-            else
-            {
-                printf("New Contact is added successfully.\n");
-            }
+            printf("New Contact is added successfully.\n");
         }
         else
         {
