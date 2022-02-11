@@ -37,9 +37,6 @@ int contact_options()
     // Getting Input from user
     scanf("%d", &option);
 
-    char fn[50];
-    int mn;
-
     switch (option)
     {
     case 1:
