@@ -1,6 +1,6 @@
 struct contact
 {
-    char name[35];
+    char name[100];
     char address[50];
     long int mble_no;
     char mail[100];

@@ -94,7 +94,7 @@ void updatecontact()
     int c;
     FILE *f;
     int flag=0;
-	char  name[50];
+	char  name[100];
 	f=fopen("project","rb+");
 	if(f==NULL)
 		{
