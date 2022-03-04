@@ -1,0 +1,8 @@
+BUILD:
+		cat phonebook.c addcontact.c listcontact.c searchcontact.c updatecontact.c deletecontact.c > main.c
+
+COMPILE:
+		gcc main.c -o main.out
+
+run:
+		./main.out

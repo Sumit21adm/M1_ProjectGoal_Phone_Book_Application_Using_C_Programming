@@ -1,1 +1,5 @@
+![Structural Diagram](https://github.com/Sumit21adm/M1_ProjectGoal_Phone_Book_Application_Using_C_Programming/blob/3241ff2b0b5279f544d077d251e9c52e8792c31a/2_Architecture/Structural.png?raw=true "Structural Diagram")
+
+![Behaviour Diagram](https://github.com/Sumit21adm/M1_ProjectGoal_Phone_Book_Application_Using_C_Programming/blob/3241ff2b0b5279f544d077d251e9c52e8792c31a/2_Architecture/Behaviour.png?raw=true "Behaviour Diagram")
+
 ![Workflow Diagram](https://github.com/Sumit21adm/M1_ProjectGoal_Phone_Book_Application_Using_C_Programming/blob/3241ff2b0b5279f544d077d251e9c52e8792c31a/2_Architecture/WorkFlow.png?raw=true "Workflow Diagram")

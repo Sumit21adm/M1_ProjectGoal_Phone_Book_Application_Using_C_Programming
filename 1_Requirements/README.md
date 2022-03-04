@@ -11,15 +11,25 @@
 ## High Level Requirements
 	- User Can Save Their Contact Details.
 	- User Can View Their Saved Contacts.
+	- User Can Search among Saved Contacts.
+	- User Can Update The Saved Contact Deatails.
+	- User Can Delete Saved Contact Details Searching by their Name.
 	
 ## Low Level Requirements
 	- Function to select the operation.
-	- Function to add contacts to file.
-	- Function to display file data to users.
+	- Function to ADD contacts to file.
+	- Function to LIST all Contacts Saved.
+	- Function to SEARCH any Contact by their Name.
+	- Function to UPDATE any Contact Searching by their Name.
+	- Function to DELETE any Contact Saved by thier Name.
 	
 ## Features of my project
-	- Create a new contact and save it.
-	- Read Saved Contacts.
+	- ADD NEW Contact and Save it.
+	- DISPLAY Saved Contacts.
+	- SEARCH Saved Contacts.
+	- UPDATE Saved Contacts.
+	- DELETE Saved Contacts.
+
 ## SWOT
 ### Strength
 	The strength of Phonebook is its feature to save more contacts than a human can remember.
@@ -40,10 +50,10 @@
 	The project can be used almost by all people.
 
 ### What:
-	add contact, view contact functions can be done by this Application.
+	add contact, view contact, search contact, update contact, delete contact functions can be done by this Application.
 
 ### When:
-	The project can be used when to lokk for a contact you didn't remember so long.
+	The project can be used when to look for a contact you didn't remember so long.
 
 ### Where:
 	The phonebook is essential for all users for purpose of Contact Saving.
