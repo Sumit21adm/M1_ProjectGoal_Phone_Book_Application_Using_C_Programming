@@ -3,19 +3,19 @@
 	saved them in a file, A user can add new contacts, Read all saved contacts. The phone book contains such data
 	as: Full Name, Mob No.
 	
-## **Requirements:**
+## **Requirements**
 	- VS CODE
 	- LINUX/ WINDOWS OS SYSTEM
 	- Github Knowledge
 
-## High Level Requirements
+## High_Level_Requirements
 	- User Can Save Their Contact Details.
 	- User Can View Their Saved Contacts.
 	- User Can Search among Saved Contacts.
 	- User Can Update The Saved Contact Deatails.
 	- User Can Delete Saved Contact Details Searching by their Name.
 	
-## Low Level Requirements
+## Low_Level_Requirements
 	- Function to select the operation.
 	- Function to ADD contacts to file.
 	- Function to LIST all Contacts Saved.
@@ -23,7 +23,7 @@
 	- Function to UPDATE any Contact Searching by their Name.
 	- Function to DELETE any Contact Saved by thier Name.
 	
-## Features of my project
+## Features_of_my_project
 	- ADD NEW Contact and Save it.
 	- DISPLAY Saved Contacts.
 	- SEARCH Saved Contacts.
@@ -45,18 +45,18 @@
 
 
 
-## 4W's & 1H
+## 4W's_&_1H
 ### WHO
 	The project can be used almost by all people.
 
-### What:
+### What
 	add contact, view contact, search contact, update contact, delete contact functions can be done by this Application.
 
-### When:
+### When
 	The project can be used when to look for a contact you didn't remember so long.
 
-### Where:
+### Where
 	The phonebook is essential for all users for purpose of Contact Saving.
 
-### How:
+### How
 	It takes input from the user. Here Workflow diagram is used to supplement the working of this application.
