@@ -1,2 +1,2 @@
 Implementation Video
-https://drive.google.com/file/d/1prli4MO2nxXlRXjjxEB1Nbxv1jN0WCwC/view?usp=sharing
+![Watch the video](https://github.com/Sumit21adm/M1_ProjectGoal_Phone_Book_Application_Using_C_Programming/blob/e2c3c8fe10aa424558e277c6223d2096c48ee760/6_ImagesAndVideo/Implementation%20Thumbnail.jpg)(https://youtu.be/RxwVu9jxYpI)
